@@ -8,4 +8,4 @@ Netbeans projekter:
 
 ## Droplet opsætning
 
-NGINX/TOMCAT Droplet domæne opsat med SSL her: [micklarsen.com](micklarsen.com/dat3sem-1)
+NGINX/TOMCAT Droplet domæne opsat med SSL her: [micklarsen.com](http://micklarsen.com/dat3sem-1)
