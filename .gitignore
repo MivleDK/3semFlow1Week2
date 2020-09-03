@@ -171,3 +171,4 @@ $RECYCLE.BIN/
 
 # End of https://www.toptal.com/developers/gitignore/api/windows,macos,netbeans,intellij
 
+/Day2/Week2Day2EX7/target/
